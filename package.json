@@ -1,11 +1,12 @@
 {
-  "name": "comp308-w2019-lesson3a",
+  "name": "comp308-w2019-lesson4a",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
+    "@types/mongoose": "^5.3.12",
     "bootstrap": "^4.2.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
@@ -14,10 +15,11 @@
     "font-awesome": "^4.7.0",
     "http-errors": "~1.6.2",
     "jquery": "^3.3.1",
+    "mongoose": "^5.4.9",
     "morgan": "~1.9.0",
     "popper.js": "^1.14.6"
   },
-  "description": "Express generator demo",
+  "description": "mongoDB demo",
   "main": "server.js",
   "author": "shefali sharma",
   "license": "ISC",
